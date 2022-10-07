@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!-- khanjasir90's readme.md file -->
-
 You can find me here :
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-moazzam-khan-756465207/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -9,7 +7,7 @@ You can find me here :
 
 ## About Me
 Hello, I am Mohammed Moazzam Khan !
-- 🔭 I am a Junior year(3rd) Computer Science Undergraduate from India!.
+- 🔭 I am a Final year(4th) Computer Science Undergraduate from India!.
 - 🌱 I am currently a Software Engineering Intern at OyeBusy and working with their Backend Team.
 - 👩‍💻 I find my technical interests in Problem Solving, Backend Development,Software Engineering,Open Source!. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
