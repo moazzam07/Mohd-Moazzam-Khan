@@ -54,9 +54,6 @@ Hello, I am Mohammed Moazzam Khan !
 
 <h1 align="left">GitHub Statistics</h1>
 
-[![moazzam07's github activity graph](https://activity-graph.herokuapp.com/graph?username=moazzam07&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <a href="https://github.com/moazzam07">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazzam07&theme=tokyonight&layout=compact&" />
 </a>
